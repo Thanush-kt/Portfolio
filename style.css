@@ -70,6 +70,7 @@ opacity: 100;
         }
         .paragraph{
             color:white;
+            
         }
 
     .nav{
@@ -89,8 +90,28 @@ opacity: 100;
 }
 }
 .paragraph{
+    display:flex;
     max-width: min(800px,90%);
     padding-left: 15px;
-    font-size:18px;
+    font-size:10px;
 }
+.image{
+    border:1px solid black;
+    height:150px;
+    width:150px;
+    border-radius:100px;
+    float:right;
+}
+.mypic{
+    height: 150px;
+    width:150px;
+    border-radius:100px;
+    margin-top: 50px;
+}
+.mypic:hover{
+    border:1px solid white;
+    box-shadow:2px 2px 50px;
+}
+
+
  

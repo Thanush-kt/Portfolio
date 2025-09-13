@@ -93,14 +93,14 @@ opacity: 100;
     display:flex;
     max-width: min(800px,90%);
     padding-left: 15px;
-    font-size:10px;
+    font-size:15px;
 }
 .image{
     border:1px solid black;
     height:150px;
     width:150px;
     border-radius:100px;
-    float:right;
+    margin-left:300px
 }
 .mypic{
     height: 150px;
